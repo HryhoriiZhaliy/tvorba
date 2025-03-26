@@ -1,4 +1,4 @@
-const firebaseURL = 'https://your-project-id.firebaseio.com'; // Replace with your actual Firebase URL
+const firebaseURL = 'https://tvorba-996df-default-rtdb.europe-west1.firebasedatabase.app/'; // Replace with your actual Firebase URL
 
 document.getElementById("create").onclick = () => {
   const time = document.getElementById("time").value;
